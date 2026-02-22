@@ -6,6 +6,7 @@ Blockchain data analysis dashboards built with SQL and Dune Analytics.
 
 ### Del Mundos NFT Analysis
 **Live Dashboard:** https://dune.com/captainzeezy/del-mundos
+![Dashboard Preview](dashboard.png)
 
 Complete on-chain analysis of Del Mundos NFT collection:
 - **10K mints** across **3.7K unique wallets**
